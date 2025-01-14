@@ -19,7 +19,6 @@
 <h3 align="left">My Contacts</h3>
 
 - My Email: **kamonnun26@gmail.com**
-- My Telephone Number: **+358 46 525 2569**
 
 <h3 align="left">My Other Social Media Profiles</h3>
 <p align="left">
