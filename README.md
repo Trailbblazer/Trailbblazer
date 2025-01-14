@@ -8,7 +8,7 @@
 
 - I'm currently studying at **Metropolia University of Applied Sciences in Finland**.
 
-- I'm a **second-year IT student in the Smart IoT System: Networking major**.
+- I'm a **Second-Year IT Student in the Smart IoT System: Networking Major**.
 
 - I’m currently learning **Some programming languages, Linux, and subjects related to IoT**.
 
