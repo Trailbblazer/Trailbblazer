@@ -23,7 +23,7 @@
 
 <h3 align="left">My Other Social Media Profiles</h3>
 <p align="left">
-<a href="www.linkedin.com/in/kamonnun-silarat-8053aa293" target="blank"><img align="center" src="https://github.com/Trailbblazer/Profileicons/blob/f06726c9890efb518d111a373188d98faee440ac/linkedin.png" alt="Kamonnun Silarat" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/kamonnun-silarat-8053aa293/" target="blank"><img align="center" src="https://github.com/Trailbblazer/Profileicons/blob/f06726c9890efb518d111a373188d98faee440ac/linkedin.png" alt="Kamonnun Silarat" height="40" width="40" /></a>
 <a href="https://www.facebook.com/kamonnun.silarat.5/" target="blank"><img align="center" src="https://github.com/Trailbblazer/Profileicons/blob/f06726c9890efb518d111a373188d98faee440ac/facebook.png" alt="Kamonnun Silarat" height="40" width="40" /></a>
 </p>
 
