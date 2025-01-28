@@ -2,7 +2,7 @@
 <h3 align="center">Bachelor's Degree Student from Thailand</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trailbblazer" alt="trailbblazer" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=trailbblazer" alt="trailbblazer" /></p>
 
 <h3 align="left">About Me</h3>
 
