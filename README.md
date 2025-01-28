@@ -12,7 +12,7 @@
 
 - I’m currently learning **Some programming languages, Linux, and subjects related to IoT**.
 
-- I’m looking to collaborate on **IT/Digital Design Projects**.
+- I’m looking to collaborate on **IT/IoT Networking/Digital Design Projects**.
 
 - I’m looking for assistance with **Software Development and Networking Projects**.
 
