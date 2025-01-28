@@ -21,7 +21,7 @@
 - My Email: **kamonnun26@gmail.com**
 
 <h3 align="left">My Custom CV (Resume)</h3>
-<a href="https://github.com/Trailbblazer/MyCV/blob/63e65c850b53e995e37bd6cb88581b4a79857150/Kamonnun%20Silarat-CV%20Jan%202025.png" target="blank">Link to my CV (Jan 2025)</a>
+<p> Coming Soon ... </p>
 
 
 <h3 align="left">My Other Social Media Profiles</h3>
