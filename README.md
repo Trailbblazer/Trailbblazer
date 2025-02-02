@@ -20,10 +20,6 @@
 
 - My Email: **kamonnun26@gmail.com**
 
-<h3 align="left">My Custom CV (Resume)</h3>
-<p> <a href="https://github.com/Trailbblazer/MyCV/blob/6c79bdbd0a31553f441e6be0f3d94872c2cbf259/CV%20as%20ATS%20format%20(Updated%20Jan%202025).pdf" target="blank">Link to my CV</a> </p>
-
-
 <h3 align="left">My Other Social Media Profiles</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kamonnun-silarat-8053aa293/" target="blank"><img align="center" src="https://github.com/Trailbblazer/Profileicons/blob/f06726c9890efb518d111a373188d98faee440ac/linkedin.png" alt="Kamonnun Silarat" height="40" width="40" /></a>
