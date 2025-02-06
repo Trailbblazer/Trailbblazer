@@ -10,7 +10,9 @@
 
 - I'm a **Second-Year IT Student in the Smart IoT System: Networking Major**.
 
-- I’m currently learning **Some programming languages, Linux, and subjects related to IoT**.
+- I’m currently learning **Some programming languages, Linux, Ethical Hacking, and subjects related to IoT**.
+
+- I'm looking for **Summer Jobs and Internships related to IT for working experiences**.
 
 - I’m looking to collaborate on **IT/IoT Networking/Digital Design Projects**.
 
