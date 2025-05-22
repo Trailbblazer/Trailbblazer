@@ -14,10 +14,10 @@
 
 <h3 align="left">About Me</h3>
 
-- 🎓 Upcoming third‑year IT student (Smart IoT Systems & Networking) at Metropolia UAS.  
+- 🎓 Upcoming third‑year IT student (Smart IoT Systems: IoT & Networks Major) at Metropolia UAS.  
 - 💡 Passionate about embedded C, Python, Linux & secure network design.  
 - 🚀 Seeking summer internships in IoT, cloud, or cybersecurity.  
-- 🤝 Let’s collaborate on open‑source IoT/networking projects!
+- 🤝 Let’s collaborate on open‑source IoT/networking and IT-related projects!
 
 <h3 align="left">🔭 Featured Projects </h3>
 ## Will edit later
