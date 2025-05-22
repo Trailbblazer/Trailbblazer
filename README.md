@@ -7,13 +7,13 @@
 
 <h2 align="center"> GitHub Trophies and Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trailbblazer&layout=compact&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Trailbblazer?tab=stars">
     <img src="https://github-profile-trophy.vercel.app/?username=Trailbblazer&row=1&column=2" alt="Trophies"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trailbblazer&layout=compact&langs_count=6" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Trailbblazer&show_icons=true&locale=en" alt="GitHub Stats" width="45%"/>
 </p>
 
