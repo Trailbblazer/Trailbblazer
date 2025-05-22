@@ -1,22 +1,26 @@
-<h1 align="center">Kamonnun Silarat a.k.a. BB</h1>
-<h3 align="center">Bachelor's Degree Student</h3>
+<h1 align="center">👋 Hi, I’m Kamonnun Silarat</h1>
+<p align="center">
+  Bachelor's Degree | IT Student @ Metropolia UAS | Smart IoT Systems: IoT & Networks  
+  <br/>
+  📍 Espoo, Finland • 📨 kamonnun26@gmail.com  
+  <br/>
+  🔗 <a href="https://linkedin.com/in/kamonnunsilarat">LinkedIn</a> 
+</p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trailbblazer" alt="trailbblazer" /></a> </p>
+<p align="center">
+  <a href="https://github.com/Trailbblazer?tab=stars">
+    <img src="https://github-profile-trophy.vercel.app/?username=Trailbblazer&row=1&column=2" alt="Trophies"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Trailbblazer&show_icons=true&locale=en" alt="GitHub Stats" width="45%"/>
+</p>
 
 <h3 align="left">About Me</h3>
 
-- I'm currently studying at **Metropolia University of Applied Sciences in Finland**.
+- 🎓 Upcoming third‑year IT student (Smart IoT Systems & Networking) at Metropolia UAS.  
+- 💡 Passionate about embedded C, Python, Linux & secure network design.  
+- 🚀 Seeking summer internships in IoT, cloud, or cybersecurity.  
+- 🤝 Let’s collaborate on open‑source IoT/networking projects!
 
-- I'm a **Second-Year IT Student in the Smart IoT System: Networking Major**.
-
-- I’m currently learning **Some programming languages, Linux, Ethical Hacking, and subjects related to IoT**.
-
-- I'm looking for **Summer Jobs and Internships related to IT for working experiences**.
-
-- I’m looking to collaborate on **IT/IoT Networking/Digital Design Projects**.
-
-- I’m looking for assistance with **Software Development and Networking Projects**.
 
 <h3 align="left">My Contacts</h3>
 
@@ -28,12 +32,27 @@
 </p>
 
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://github.com/Trailbblazer/Profileicons/blob/e3782420b7752b1a011f15f74dba9df1660c0b53/cisco.png" alt=“cisco” width="40" height="40"/> </a> <img src="https://github.com/Trailbblazer/Profileicons/blob/53037e163024513da862f60b100555af7df12141/capcut.png" alt="capcut” width="40" height="40"/> </a> <img src="https://github.com/Trailbblazer/Profileicons/blob/53037e163024513da862f60b100555af7df12141/Adobe_Lightroom.png" alt="adobelightroom” width="40" height="40"/> </a> <img src="https://github.com/Trailbblazer/Profileicons/blob/53037e163024513da862f60b100555af7df12141/canva.png" alt="canva” width="40" height="40"/> </a>
+<h3 align="left">🛠 Tech and Tools</h3> 
+<p>
+  <!-- Programming -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" />
+  <!-- Networking -->
+  <img src="https://github.com/Trailbblazer/Profileicons/raw/main/cisco.png" alt="Cisco" width="30" />
+  <!-- OS & Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="30" />
+  <!-- Multimedia -->
+  <img src="https://github.com/Trailbblazer/Profileicons/raw/main/canva.png" alt="Canva" width="30" />
+  <img src="https://github.com/Trailbblazer/Profileicons/raw/main/capcut.png" alt="CapCut" width="30" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trailbblazer&show_icons=true&locale=en&layout=compact" alt="trailbblazer" /></p>
+<h3 align="left">💻 Languages & Frameworks</h3> 
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trailbblazer&show_icons=true&locale=en" alt="trailbblazer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trailbblazer&" alt="trailbblazer" /></p>
+<h3 align="left">📫 Get in Touch</h3> 
+Feel free to connect on [LinkedIn](https://linkedin.com/in/kamonnunsilarat) or drop me an email at kamonnun26@gmail.com.
