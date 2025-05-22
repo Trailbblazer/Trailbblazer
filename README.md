@@ -40,8 +40,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="30" />
-  <img src="https://github.com/Trailbblazer/Profileicons/raw/main/redhat.png" alt="RedHat" width="30" />
-  <img src="https://github.com/Trailbblazer/Profileicons/raw/main/putty.png" alt="PuTTY" width="30" />
+  <img src="https://github.com/Trailbblazer/Profileicons/blob/main/Red_Hat.png" alt="RedHat" width="30" />
+  <img src="https://github.com/Trailbblazer/Profileicons/blob/main/PuTTY.png" alt="PuTTY" width="30" />
   
   <!-- Multimedia -->
   <img src="https://github.com/Trailbblazer/Profileicons/raw/main/canva.png" alt="Canva" width="30" />
