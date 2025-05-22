@@ -1,10 +1,8 @@
-<h1 align="center">👋 Hi, I’m Kamonnun Silarat</h1>
+<h1 align="center">👋 Hi, I’m Kamonnun Silarat a.k.a. BB</h1>
 <p align="center">
   Bachelor's Degree | IT Student @ Metropolia UAS | Smart IoT Systems: IoT & Networks  
   <br/>
   📍 Espoo, Finland • 📨 kamonnun26@gmail.com  
-  <br/>
-  🔗 <a href="https://linkedin.com/in/kamonnunsilarat">LinkedIn</a> 
 </p>
 
 <p align="center">
@@ -21,16 +19,8 @@
 - 🚀 Seeking summer internships in IoT, cloud, or cybersecurity.  
 - 🤝 Let’s collaborate on open‑source IoT/networking projects!
 
-
-<h3 align="left">My Contacts</h3>
-
-- My Email: **kamonnun26@gmail.com**
-
-<h3 align="left">My Other Social Media Profiles</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kamonnunsilarat/" target="blank"><img align="center" src="https://github.com/Trailbblazer/Profileicons/blob/f06726c9890efb518d111a373188d98faee440ac/linkedin.png" alt="Kamonnun Silarat" height="40" width="40" /></a>
-</p>
-
+<h3 align="left">🔭 Featured Projects </h3>
+## Will edit later
 
 <h3 align="left">🛠 Tech and Tools</h3> 
 <p>
@@ -54,5 +44,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" />
 </p>
 
-<h3 align="left">📫 Get in Touch</h3> 
-Feel free to connect on [LinkedIn](https://linkedin.com/in/kamonnunsilarat) or drop me an email at kamonnun26@gmail.com.
+<h3 align="left">📫 Get in Touch </h3> 
+Feel free to connect
+<p align="left">
+<a href="https://www.linkedin.com/in/kamonnunsilarat/" target="blank"><img align="center" src="https://github.com/Trailbblazer/Profileicons/blob/f06726c9890efb518d111a373188d98faee440ac/linkedin.png" alt="Kamonnun Silarat" height="40" width="40" /></a>
+</p>
+
+or drop me an email at **kamonnun26@gmail.com**.
