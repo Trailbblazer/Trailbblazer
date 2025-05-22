@@ -36,18 +36,14 @@
   <!-- Multimedia -->
   <img src="https://github.com/Trailbblazer/Profileicons/raw/main/canva.png" alt="Canva" width="30" />
   <img src="https://github.com/Trailbblazer/Profileicons/raw/main/capcut.png" alt="CapCut" width="30" />
-</p>
-
-<h3 align="left">💻 Languages & Frameworks</h3> 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" />
+  <img src="https://github.com/Trailbblazer/Profileicons/blob/53037e163024513da862f60b100555af7df12141/Adobe_Lightroom.png" alt="adobelightroom” width="30" />
 </p>
 
 <h3 align="left">📫 Get in Touch </h3> 
-Feel free to connect
-<p align="left">
-<a href="https://www.linkedin.com/in/kamonnunsilarat/" target="blank"><img align="center" src="https://github.com/Trailbblazer/Profileicons/blob/f06726c9890efb518d111a373188d98faee440ac/linkedin.png" alt="Kamonnun Silarat" height="40" width="40" /></a>
+<p>
+  Connect with me on  
+  <a href="https://www.linkedin.com/in/kamonnunsilarat/" target="_blank">
+    <img src="https://github.com/Trailbblazer/Profileicons/blob/f06726c9890efb518d111a373188d98faee440ac/linkedin.png" alt="LinkedIn" height="30" />
+  </a>  
+  or email me at <strong>kamonnun26@gmail.com</strong>
 </p>
-
-or drop me an email at **kamonnun26@gmail.com**.
