@@ -5,6 +5,7 @@
   📍 Espoo, Finland • 📨 kamonnun26@gmail.com  
 </p>
 
+<h2 align="center"> GitHub Trophies and Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trailbblazer&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
