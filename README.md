@@ -29,26 +29,31 @@
   <li>
     <strong><a href="https://drive.google.com/drive/folders/1nURXWllHU600JxfHpjnd4cEtz5ZmJIUt?usp=share_link">Mental Health Assistant (LLM Demo)</a></strong>:  
     LLM-based chatbot for stress support with a Streamlit UI.  
+    <br/>
     <em>My Role:</em> Group collaboration with model idea thinking, model fine-tuning and demo integration.
   </li>
   <li>
     <strong><a href="https://github.com/olgachit/Python-and-Data-Analytics-Project">Global GDP Analytics</a></strong>:  
     Jupyter pipelines exploring Penn World Table data for time-series insights.  
+    <br/>
     <em>My Role:</em> Group collaboration with code edits, presentation making, data cleaning, plotting and trend analysis.
   </li>
   <li>
     <strong><a href="https://github.com/bamboo51/Embedded-Project-Metropolia">IoT Pill Dispenser</a></strong>:  
     Automated medication system using Raspberry Pi Pico and LoRaWAN monitoring.  
+    <br/>
     <em>My Role:</em> Group collaboration with report and code edits, embedded C development, and program testing.
   </li>
   <li>
     <strong><a href="https://docs.google.com/document/d/19wKIae5dEV-Ahb52aV3D3mciFC0fZ3kd/edit?usp=sharing">HRV Stress Detector</a></strong>:  
     MicroPython-based heart rate variability monitor with OLED Live Display.  
-    <em>My Role:</em> Group collaboration with HRV algorithm, UI implementation, and hardware and program testing.
+    <br/>
+    <em>My Role:</em> Group collaboration with HRV algorithm, UI implementation, and hardware & program testing.
   </li>
   <li>
     <strong><a href="https://github.com/nhidinh91/metropolia-software-1-and-2-zombiator">Flight Game with Live Weather</a></strong>:  
     Python-Flask web game integrating Google Maps & OpenWeather APIs.  
+    <br/>
     <em>My Role:</em> Group collaboration with presentation making, frontend logic, API integration, and program testing.
   </li>
 </ul>
