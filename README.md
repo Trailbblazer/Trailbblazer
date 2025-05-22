@@ -5,7 +5,7 @@
   📍 Espoo, Finland • 📨 kamonnun26@gmail.com  
 </p>
 
-<h2 align="center"> GitHub Trophies and Stats</h2>
+<h3 align="center"> GitHub Trophies and Stats</h3>
 <p align="center">
   <a href="https://github.com/Trailbblazer?tab=stars">
     <img src="https://github-profile-trophy.vercel.app/?username=Trailbblazer&row=1&column=2" alt="Trophies"/>
