@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trailbblazer&layout=compact&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Trailbblazer?tab=stars">
     <img src="https://github-profile-trophy.vercel.app/?username=Trailbblazer&row=1&column=2" alt="Trophies"/>
   </a>
@@ -28,11 +32,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" />
-  <!-- Networking -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="30" />
+
+  <!-- Networking & OS-->
   <img src="https://github.com/Trailbblazer/Profileicons/raw/main/cisco.png" alt="Cisco" width="30" />
-  <!-- OS & Cloud -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="30" />
+  <img src="https://github.com/Trailbblazer/Profileicons/raw/main/redhat.png" alt="RedHat" width="30" />
+  <img src="https://github.com/Trailbblazer/Profileicons/raw/main/putty.png" alt="PuTTY" width="30" />
+  
   <!-- Multimedia -->
   <img src="https://github.com/Trailbblazer/Profileicons/raw/main/canva.png" alt="Canva" width="30" />
   <img src="https://github.com/Trailbblazer/Profileicons/raw/main/capcut.png" alt="CapCut" width="30" />
