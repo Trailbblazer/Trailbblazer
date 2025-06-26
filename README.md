@@ -45,7 +45,7 @@
     <em>My Role:</em> Group collaboration with report and code edits, embedded C development, and program testing.
   </li>
   <li>
-    <strong><a href="https://docs.google.com/document/d/19wKIae5dEV-Ahb52aV3D3mciFC0fZ3kd/edit?usp=sharing">HRV Stress Detector</a></strong>:  
+    <strong><a href="https://docs.google.com/document/d/19wKIae5dEV-Ahb52aV3D3mciFC0fZ3kd/edit?usp=sharing">Heart Rate Detector</a></strong>:  
     MicroPython-based heart rate variability monitor with OLED Live Display.  
     <br/>
     <em>My Role:</em> Group collaboration with HRV algorithm, UI implementation, and hardware & program testing.
