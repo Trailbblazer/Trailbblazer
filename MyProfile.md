@@ -62,7 +62,7 @@
 <ul>
   <li>
     <strong>
-      <a href="https://github.com/Trailbblazer/For-Networking-Activities/tree/main/CCNA-Case-Studies">
+      <a href="https://github.com/Trailbblazer/For-Networking-Activities/blob/main/CCNA-Case-Studies/CS-Contents.md">
         CCNA Networking Case Studies
       </a>
     </strong>:  
