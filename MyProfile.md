@@ -58,7 +58,7 @@
   </li>
 </ul>
 
-<h3 align="left">📚 Other IoT Networking Activities</h3>
+<h3 align="left">📚 Other IT Activities</h3>
 <ul>
   <li>
     <strong>
