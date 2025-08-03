@@ -20,7 +20,7 @@
 <h3 align="left">👤 About Me</h3>
 
 - 🎓 Currently a third‑year IT student (Smart IoT Systems: IoT & Networks Major) at Metropolia UAS.  
-- 💡 Passionate about embedded C, Python, HTML/CSS programming, Linux & secure networks design.  
+- 💡 Passionate about embedded C, Python, HTML/CSS programming, Linux & secure network design.  
 - 🚀 Seeking internships in IoT, cloud, cybersecurity, or any jobs related to IT.
 - 🤝 Let’s collaborate on open‑source IoT/networking and IT-related projects!
 
@@ -36,7 +36,7 @@
     <strong><a href="https://github.com/olgachit/Python-and-Data-Analytics-Project">Global GDP Analytics</a></strong>:  
     Jupyter pipelines exploring Penn World Table data for time-series insights.  
     <br/>
-    <em>My Role:</em> Group collaboration with code edits, presentation making, data cleaning, plotting and trend analysis.
+    <em>My Role:</em> Group collaboration with code edits, presentation making, data cleaning, plotting, and trend analysis.
   </li>
   <li>
     <strong><a href="https://github.com/bamboo51/Embedded-Project-Metropolia">IoT Pill Dispenser</a></strong>:  
@@ -58,7 +58,7 @@
   </li>
 </ul>
 
-<h3 align="left">📚 Case Studies</h3>
+<h3 align="left">📚 Other IoT Networking Activities</h3>
 <ul>
   <li>
     <strong>
