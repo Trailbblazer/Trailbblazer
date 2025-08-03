@@ -59,6 +59,7 @@
 </ul>
 
 <h3 align="left">📚 Other IT Activities</h3>
+<h4>🗒 Case Studies</h4>
 <ul>
   <li>
     <strong>
