@@ -19,9 +19,9 @@
 
 <h3 align="left">👤 About Me</h3>
 
-- 🎓 Upcoming third‑year IT student (Smart IoT Systems: IoT & Networks Major) at Metropolia UAS.  
-- 💡 Passionate about embedded C, Python, Linux & secure network design.  
-- 🚀 Seeking summer internships in IoT, cloud, or cybersecurity.  
+- 🎓 Currently a third‑year IT student (Smart IoT Systems: IoT & Networks Major) at Metropolia UAS.  
+- 💡 Passionate about embedded C, Python, HTML/CSS programming, Linux & secure networks design.  
+- 🚀 Seeking internships in IoT, cloud, cybersecurity, or any jobs related to IT.
 - 🤝 Let’s collaborate on open‑source IoT/networking and IT-related projects!
 
 <h3 align="left">🔭 Featured Projects</h3>
@@ -30,7 +30,7 @@
     <strong><a href="https://drive.google.com/drive/folders/1nURXWllHU600JxfHpjnd4cEtz5ZmJIUt?usp=share_link">Mental Health Assistant (LLM Demo)</a></strong>:  
     LLM-based chatbot for stress support with a Streamlit UI.  
     <br/>
-    <em>My Role:</em> Group collaboration with model idea thinking, model fine-tuning and demo integration.
+    <em>My Role:</em> Group collaboration with model idea thinking, model fine-tuning, and demo integration.
   </li>
   <li>
     <strong><a href="https://github.com/olgachit/Python-and-Data-Analytics-Project">Global GDP Analytics</a></strong>:  
@@ -58,6 +58,17 @@
   </li>
 </ul>
 
+<h3 align="left">📚 Case Studies</h3>
+<ul>
+  <li>
+    <strong>
+      <a href="https://github.com/Trailbblazer/For-Networking-Activities/tree/main/CCNA-Case-Studies">
+        CCNA Networking Case Studies
+      </a>
+    </strong>:  
+    Two deep-dive Cisco labs (Fall 2024 & Spring 2025) on VLANs, OSPF, EtherChannel, ACLs & more—real hardware at Metropolia UAS.  
+  </li>
+</ul>
 
 <h3 align="left">🛠 Tech and Tools</h3> 
 <p>
