@@ -67,7 +67,15 @@
         CCNA Networking Case Studies
       </a>
     </strong>:  
-    Two deep-dive Cisco labs (Fall 2024 & Spring 2025) on VLANs, OSPF, EtherChannel, ACLs & more—real hardware at Metropolia UAS.  
+    Two deep-dive Cisco labs (CCNA2 & CCNA3) on VLANs, OSPF, EtherChannel, ACLs & more—real hardware at Metropolia UAS.  
+  </li>
+  <li>
+    <strong>
+      <a href="https://github.com/Trailbblazer/For-Networking-Activities/blob/main/VMWare-Caase-Study/CS-Contents.md">
+        VMware Virtualization Case Study
+      </a>
+    </strong>:  
+    Hands-on vSphere ICM 8 labs in Metropolia’s NETLAB+—virtual networking, storage, and performance testing.  
   </li>
 </ul>
 
