@@ -17,14 +17,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Trailbblazer&show_icons=true&locale=en" alt="GitHub Stats" width="45%"/>
 </p>
 
-<h3 align="left">👤 About Me</h3>
+<h3 align="left">About Me</h3>
 
-- 🎓 Currently a third‑year IT student (Smart IoT Systems: IoT & Networks Major) at Metropolia UAS.  
-- 💡 Passionate about embedded C, Python, HTML/CSS programming, Linux & secure network design.  
-- 🚀 Seeking internships in IoT, cloud, cybersecurity, or any jobs related to IT.
-- 🤝 Let’s collaborate on open‑source IoT/networking and IT-related projects!
+- Currently a third‑year IT student (Smart IoT Systems: IoT & Networks Major) at Metropolia UAS.  
+- Passionate about embedded C, Python, HTML/CSS programming, Linux & secure network design.  
+- Seeking internships in IoT, cloud, cybersecurity, or any jobs related to IT.
+- Let’s collaborate on open‑source IoT/networking and IT-related projects!
 
-<h3 align="left">🔭 Featured Projects</h3>
+<h3 align="left">Featured Projects</h3>
 <ul>
   <li>
     <strong><a href="https://drive.google.com/drive/folders/1nURXWllHU600JxfHpjnd4cEtz5ZmJIUt?usp=share_link">Mental Health Assistant (LLM Demo)</a></strong>:  
@@ -58,7 +58,7 @@
   </li>
 </ul>
 
-<h3 align="left">📚 Other IT Activities</h3>
+<h3 align="left">Other IT Activities</h3>
 <h4>🗒 Case Studies</h4>
 <ul>
   <li>
@@ -79,7 +79,7 @@
   </li>
 </ul>
 
-<h3 align="left">🛠 Tech and Tools</h3> 
+<h3 align="left">Tech and Tools</h3> 
 <p>
   <strong>Programming Languages:</strong><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" />
@@ -101,7 +101,7 @@
   <img src="https://github.com/Trailbblazer/Profileicons/blob/53037e163024513da862f60b100555af7df12141/Adobe_Lightroom.png" alt="adobelightroom" width="30" />
 </p>
 
-<h3 align="left">📫 Get in Touch </h3> 
+<h3 align="left">Get in Touch </h3> 
 <p>
   Connect with me on  
   <a href="https://www.linkedin.com/in/kamonnunsilarat/" target="_blank">
