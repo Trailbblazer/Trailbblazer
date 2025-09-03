@@ -99,6 +99,7 @@
   <img src="https://github.com/Trailbblazer/Profileicons/raw/main/canva.png" alt="Canva" width="30" />
   <img src="https://github.com/Trailbblazer/Profileicons/raw/main/capcut.png" alt="CapCut" width="30" />
   <img src="https://github.com/Trailbblazer/Profileicons/blob/53037e163024513da862f60b100555af7df12141/Adobe_Lightroom.png" alt="adobelightroom" width="30" />
+  <img src="https://github.com/Trailbblazer/Profileicons/blob/main/picsart.png" alt="Picsart" width="30" />
 </p>
 
 <h3 align="left">Get in Touch </h3> 
