@@ -27,6 +27,11 @@
 <h3 align="left">Featured Projects</h3>
 <ul>
   <li>
+    <strong><a href="https://itch.io/jam/spaceship-game-jam-25/rate/3852364">Spaceship to Mars (Game Jam 2025)</a></strong>: Space-themed adventure game built during Spaceship Game JAM within a few days.
+   <br/>
+   <em>My Role:</em> Group collaboration with UX/UI code adjustments, image and background sourcing, and storyline design.
+  </li>  
+  <li>
     <strong><a href="https://drive.google.com/drive/folders/1nURXWllHU600JxfHpjnd4cEtz5ZmJIUt?usp=share_link">Mental Health Assistant (LLM Demo)</a></strong>:  
     LLM-based chatbot for stress support with a Streamlit UI.  
     <br/>
