@@ -89,6 +89,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="30" />
   <img src="https://github.com/Trailbblazer/Profileicons/blob/main/Red_Hat.png" alt="RedHat" width="30" />
   <img src="https://github.com/Trailbblazer/Profileicons/blob/main/PuTTY.png" alt="PuTTY" width="30" />
+  <img src="https://github.com/Trailbblazer/Profileicons/blob/main/aws.png" alt="AWS" width="40" />
+  <img src="https://github.com/Trailbblazer/Profileicons/blob/main/macos_terminal.png" alt="MacOS Terminal" width="30" />
   
   <strong>Multimedia Tools:</strong><br>
   <img src="https://github.com/Trailbblazer/Profileicons/raw/main/canva.png" alt="Canva" width="30" />
