@@ -34,7 +34,7 @@
     <em>My Role:</em> Group collaboration with code edits, presentation making, data cleaning, plotting, and trend analysis.
   </li>
   <li>
-    <strong><a href="https://github.com/bamboo51/Embedded-Project-Metropolia">IoT Pill Dispenser</a></strong>:  
+    <strong><a href="https://docs.google.com/document/d/1UwK2n8F6FbWjlBf3OyPVAXKuCA7rEla5NJLoAWz_UA4/edit?usp=sharing">IoT Pill Dispenser</a></strong>:  
     Automated medication system using Raspberry Pi Pico and LoRaWAN monitoring.  
     <br/>
     <em>My Role:</em> Group collaboration with report and code edits, embedded C development, and program testing.
